@@ -1,4 +1,11 @@
-# HydroSat Systems
+# HydroSat-Systems-Prelims
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
+[![MMSegmentation](https://img.shields.io/badge/MMSegmentation-OpenMMLab-0099CC)](https://github.com/open-mmlab/mmsegmentation)
+[![SegFormer](https://img.shields.io/badge/SegFormer-B5-1E88E5)](https://arxiv.org/abs/2105.15203)
+[![Task](https://img.shields.io/badge/Task-Water%20Segmentation-2E8B57)](https://en.wikipedia.org/wiki/Image_segmentation)
+[![Project](https://img.shields.io/badge/Project-ITU%20Ingenuity%20Cup%202026-orange)](https://github.com/BrownAssassin/HydroSat-Systems-Prelims)
+[![Repo Size](https://img.shields.io/github/repo-size/BrownAssassin/HydroSat-Systems-Prelims)](https://github.com/BrownAssassin/HydroSat-Systems-Prelims)
 
 Training repo for the **ITU Ingenuity Cup: AI and Space Computing Challenge** preliminary round submission by **HydroSat Systems**.
 
